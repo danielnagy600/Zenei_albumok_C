@@ -5,4 +5,4 @@ Deklaráljon olyan struktúrát, amely zenei albumok adatait tárolja és lánco
 Írjon függvényt, amely átveszi a fent felsorolt album adatokat, és a láncolt lista első elemének címét (vagy NULL mutatót, ha még nincs ilyen)! A függvény hozzon létre dinamikusan egy új struktúrát a megadott adatokkal, és ezt fűzze a lista végére! Adja vissza az első listaelem címét!
 
 ## Technical features
-- C
+- C language
