@@ -1,4 +1,4 @@
-# Zenei_albumok_C
+# Zenei albumok
 
 ## Description
 Deklaráljon olyan struktúrát, amely zenei albumok adatait tárolja és láncolt listába fűzhető! Legyen képes tárolni az album előadóját (maximum 25 karakter), az album címét (maximum 25 karakter), a kiadót (maximum 15 karakter), és a megjelenés évét!
